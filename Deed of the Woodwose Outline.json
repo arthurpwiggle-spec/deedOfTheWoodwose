@@ -1,19 +1,6 @@
-[
-  { "title": "Tournament Title", "value": "Tournoi du Faucon Noir 2026" },
-  { "title": "Tournament Subtitle", "value": "Deed of the Woodwose" },
-  { "title": "Event Type", "value": "Deed of Arms Criee" },
-  { "title": "Host", "value": "Black Falcon School of Arms" },
-  { "title": "Location", "value": "La Foret, Black Forest region of Colorado" },
-  { "title": "Venue", "value": "Hauke Swordplay Summit" },
-  { "title": "Dates", "value": "May 15th through 17th, 2026" },
-  { "title": "Description", "value": "Be it known to all unto whom these summons come that the Black Falcon School of Arms shall host its annual Deed of Arms, the Tournoi du Faucon Noir." },
-  { "title": "Theming Rule 1", "value": "Members of the BFSA (knights or squires) shall either be dressed as wildmen or wildwomen, or bear some decoration or token that marks them as being on the 'woodsy' team." },
-  { "title": "Theming Rule 2", "value": "All visitors from other schools (knights or squires) shall be dressed as Sir Gawain of the Arthurian tale." },
-  { "title": "Theming Rule 3", "value": "Each of the dedans shall have their own style under which to be announced during the official Deed." },
-  { "title": "Engagement Rule 1", "value": "All normal rules of the Tournoi du Faucon Noir shall be observed." },
-  { "title": "Engagement Rule 2", "value": "Unless eating, sleeping, or teaching, no member of the dedans shall refuse a formal challenge." },
-  { "title": "Engagement Rule 3", "value": "Each member of the dedans shall conceive of their own thought a specific challenge for which they shall award a token." },
-  { "title": "Engagement Rule 4", "value": "In the Knights' Deed, the dedans must meet any challenge while armed de arma silvae." },
-  { "title": "Engagement Rule 5", "value": "Each dehors challenger in the Squire's Deed may request that their opponent fight with a woodwose weapon." },
-  { "title": "Engagement Rule 6", "value": "At the end of the Deed, all members of the defending dedans shall assemble and choose who should be considered First Among Equals." }
-]
+{
+  "header": "<h2>Tournoi du Faucon Noir 2026</h2><h3>Deed of the Woodwose</h3><p><b>Deed of Arms Criee</b><br>May 15th–17th, 2026 | La Forêt (Black Forest, CO)</p>",
+  "description": "<p style='font-style: italic;'>Be it known to all unto whom these summons come that the Black Falcon School of Arms shall host at the Hauke Swordplay Summit its annual Deed of Arms, the Tournoi du Faucon Noir. All dedans shall be dressed as wildmen or wildwomen of the woods, and all dehors shall be dressed as the Arthurian knight Gawain.</p>",
+  "theming_rules": "<h3>Rules: Theming</h3><ul><li><b>Dedans:</b> Dressed as wildmen/wildwomen or bear a token marking them as on the 'woodsy' team (e.g., Oak Knight, Holly Knight).</li><li><b>Dehors:</b> Dressed as Sir Gawain or show an opposing token (e.g., red pentangle, golden eagle on a red shield).</li><li><b>Style:</b> Dedans shall have their own style under which to be announced (e.g., Squire of the White Pine).</li></ul>",
+  "engagement_rules": "<h3>Special Rules of Engagement</h3><ul><li>All normal rules of the Tournoi du Faucon Noir shall be observed.</li><li>Unless eating, sleeping, or teaching, no member of the dedans shall refuse a formal challenge issued by a dehors.</li><li>Each member of the dedans shall conceive a specific challenge for which they award a custom token (e.g., a sapphire).</li><li>In the Knights' Deed, the dedans must meet challenges armed <i>de arma silvae</i> (weapons of the woods like a thorny club, staff, or hide shield).</li><li>Dehors challengers in the Squire's Deed may request their opponent fight with a woodwose weapon of general equivalency.</li><li>At the end of the Deed, the defending dedans shall assemble and choose a 'First Among Equals' for both Squires and Knights.</li></ul>"
+}
